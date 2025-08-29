@@ -1,0 +1,11 @@
+.banner{
+    background-image: url(surface-svtI8SlYxlc-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    font-family: poppins, sans-serif;
+}
+.skills-padding{
+    padding: 70px 0;
+}
